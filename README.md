@@ -251,4 +251,4 @@ while True:
   
 ![Screenshot (135)](https://user-images.githubusercontent.com/92678339/148962425-d6266b5d-d7f1-4808-95e7-f6e4bdb70156.png)
 
-## TERIMA KASIH
+## Terimakasih :)
